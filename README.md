@@ -517,7 +517,7 @@ Public URL
 <h3>🌐 Deployment</h3>
 
 <p>
-    <a href="">
+    <a href="https://slr-ml-project-2.onrender.com">
         Render Deployment
     </a>
 </p>
@@ -525,7 +525,7 @@ Public URL
 <h3>💼 LinkedIn</h3>
 
 <p>
-    <a href="">
+    <a href="https://www.linkedin.com/in/anuharika/">
         LinkedIn Profile
     </a>
 </p>
